@@ -4,31 +4,49 @@
             "type": "twitter",
             "title": "Twitter",
             "icon": "fa-twitter",
-            "url": "https://twitter.com/"
+            "url": "https://twitter.com/saba7lebnen"
+        },
+        {
+            "type": "mastodon",
+            "title": "Mastodon",
+            "icon": "fa-mastodon",
+            "url": "https://writing.exchange/@saba7lebnen"
+        },
+        {
+            "type": "medium",
+            "title": "Medium",
+            "icon": "fa-medium",
+            "url": "https://medium.com/@saba7lebnen"
+        },
+        {
+            "type": "gitlab",
+            "title": "Gitlab",
+            "icon": "fa-gitlab",
+            "url": "https://gitlab.com/saba7lebnen"
         },
         {
             "type": "instagram",
             "title": "Instagram",
             "icon": "fa-instagram",
-            "url": "https://www.instagram.com/"
+            "url": "https://www.instagram.com/saba7lebnen"
         },
         {
             "type": "github",
             "title": "GitHub",
             "icon": "fa-github",
-            "url": "https://github.com/"
+            "url": "https://github.com/saba7lebnen"
         },
         {
             "type": "linkedin",
             "title": "LinkedIn",
             "icon": "fa-linkedin",
-            "url": "https://www.linkedin.com/"
+            "url": "https://www.linkedin.com/saba7lebnen"
         },
         {
             "type": "devto",
             "title": "DEV",
             "icon": "fa-dev",
-            "url": "https://dev.to/"
+            "url": "https://dev.to/saba7lebnen"
         }
     ]
 }
