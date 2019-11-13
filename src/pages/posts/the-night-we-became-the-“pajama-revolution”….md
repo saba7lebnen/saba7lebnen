@@ -11,7 +11,7 @@ template: post
 
 [ This story is also published on [Medium](https://medium.com/@saba7lebnen/the-night-we-became-the-pajama-revolution-d3e542cc7190) ]
 
-In one terrible night, a protester and father of three, was publicly executed by the driver of an army official, our President flat out told us to emigrate, and the first stone was cast against the army dispatched to open the roads.
+In one terrible night, a protester and father of three, was publicly executed by the driver of an army official, our President accidentally told us to emigrate, and the first stone was cast against the army dispatched to open the roads.
 
 Our evening began with an interview in which president Michel Aoun somehow managed to outdo both Donald Trump and Marie-Antoinette in a single blundering turn of the phrase.
 
