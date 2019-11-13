@@ -5,7 +5,7 @@ sections:
       - label: Learn More
         url: /about
     component: Intro
-    content: I write about Lebanon
+    content: Thoughts in support of the Lebanese Revolution.
     section_id: intro
     title: Intro
     type: intro
