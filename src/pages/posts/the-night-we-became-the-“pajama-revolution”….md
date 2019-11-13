@@ -27,7 +27,7 @@ _**Last night was the night we learned that when we become true countrymen/women
 
 > After last night, never again can we sit at home without a measure of self-disgust.
 
-We cry for Alaa Abou Fakher with no interest in his party, his agenda, his denomination, whatever he believed in that night to stand his ground. **We the people he belonged with, forbade his slaying as we forbid that any harm come to anyone, for or against change.**
+We cry for Alaa Abou Fakher with no interest in his party, his agenda, his denomination, whatever he believed in that night to stand his ground. **We the people he belonged with, forbade his slaying as we forbid violence against anyone, for or against change.**
 
 **Today more than ever we must continue our stand because the matter of this murder and decades of crimes against our country are most likely in the unreliable hands of our _tainted judiciary system which to this day, is not a separate power._ **Alternatively, the verdict may be left to the martial courts of the same army institution we respected so much until it began suppressing our freedom of press whenever it was tasked with beating us off the streets. All this of course, in the name of our own good, we, the people, the “watan” they serve.
 
