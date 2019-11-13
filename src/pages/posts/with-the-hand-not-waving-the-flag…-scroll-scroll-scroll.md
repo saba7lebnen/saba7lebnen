@@ -4,6 +4,8 @@ date: 2019-10-30T16:30:57.972Z
 thumb_img_path: /images/with_the_hand_not.jpg
 template: post
 ---
+![A parchment that reads "We, the People". Next to it, a quill in an ink bottle, and the only light source, a candle](/images/with_the_hand_not.jpg)
+
 [ This story is also published on [Medium](https://medium.com/@saba7lebnen/with-the-hand-not-waving-the-flag-scroll-scroll-scroll-dc963dd3eaf4) ]
 
 **Today, the individuals who pillaged our country count on the holes in our civic education. They count on us not knowing what to do next.**
@@ -28,16 +30,16 @@ One way or another, between family and entertainment, responsibility and surviva
 
 _It seems they miscalculated._
 
-**_Our diaspora has withdrawn hard-earned savings. Our mothers’ eyes have hardened with determination. Disappointment after disappointment, we imagined the outline of a window on the walls of our cells, and we used it to get out and meet our neighbors._** We just spent nearly two weeks on the streets reminding them we exist, realizing their worst nightmares, united despite their worst efforts.
+_**Our diaspora has withdrawn hard-earned savings. Our mothers’ eyes have hardened with determination. Disappointment after disappointment, we imagined the outline of a window on the walls of our cells, and we used it to get out and meet our neighbors.**_ We just spent nearly two weeks on the streets reminding them we exist, realizing their worst nightmares, united despite their worst efforts.
 
 Without ever relieving the pressure of protest, the time has come for us to use some our newfound fearlessness, to seek the knowledge we lack. Learn with fliers, learn from others, scroll, click, ask, question, discuss and read, read, read. Because soon, we will have to make choices and they better be educated ones.
 
 For that, we must remember and remind each other that:
 
-* Any information we lack is a finite body of knowledge with a clear beginning and a clear end. **_It is not beyond any of us and we can grasp most of it in short hours._**
-* **_Before we can reform any of it, we must first know and understand it._**
-* **_Knowing this information is the civic duty of each and every one of us_**, not something we can leave to others, be they journalists, lawyers or political analysts.
-* **_This is no time for feeling ashamed or shaming each other._** Those of us who don’t know should ask without fear, and those of us who do know should share without judgment.
+* Any information we lack is a finite body of knowledge with a clear beginning and a clear end. _**It is not beyond any of us and we can grasp most of it in short hours.**_
+* _**Before we can reform any of it, we must first know and understand it.**_
+* _**Knowing this information is the civic duty of each and every one of us**_, not something we can leave to others, be they journalists, lawyers or political analysts.
+* _**This is no time for feeling ashamed or shaming each other.**_ Those of us who don’t know should ask without fear, and those of us who do know should share without judgment.
 
 **Most importantly, let us not bicker over language barriers and who’s more Lebanese than who. Our country has a difficult history of occupation, mandates and immigration. If some of us are not fluent in Arabic, they are no less citizens and no less the children of the circumstances that divided us.**
 
