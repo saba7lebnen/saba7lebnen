@@ -4,6 +4,8 @@ date: 2019-10-28T17:03:09.403Z
 thumb_img_path: /images/now_they_fear_us.jpg
 template: post
 ---
+![An monstrous red wolf is about to crush a small green cedar tree between its jaws](/images/now_they_fear_us.jpg)
+
 [ This story is also published on [Medium](https://medium.com/@saba7lebnen/brace-yourselves-because-now-they-fear-us-8385ce8257e7) ]
 
 There is one choice we lost for good in this revolution. The choice of going back to life as we know it. Back to the way things were two weeks ago before the drop that broke the camel’s back.
