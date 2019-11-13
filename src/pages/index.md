@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Learn More
-        url: /about
+  - actions: []
     component: Intro
     content: Thoughts in support of the Lebanese Revolution.
     section_id: intro
