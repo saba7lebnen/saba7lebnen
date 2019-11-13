@@ -11,7 +11,7 @@ template: post
 
 [ This story is also published on [Medium](https://medium.com/@saba7lebnen/the-night-we-became-the-pajama-revolution-d3e542cc7190) ]
 
-In one terrible night, a protester and father of three, was publicly executed by a soldier, our President flat out told us to emigrate, and the first stone was cast against the army dispatched to open the roads.
+In one terrible night, a protester and father of three, was publicly executed by the driver of an army official, our President flat out told us to emigrate, and the first stone was cast against the army dispatched to open the roads.
 
 Our evening began with an interview in which president Michel Aoun somehow managed to outdo both Donald Trump and Marie-Antoinette in a single blundering turn of the phrase.
 
@@ -19,9 +19,9 @@ Our evening began with an interview in which president Michel Aoun somehow manag
 
 Despite an official clarification from Baabda explaining the President’s intended meaning, the sentence escaped his lips a little too quickly and too easily for absolution. The fact that he could nonchalantly use such rhetoric vis-à-vis a nation that has bled millions of citizens in diaspora and brain drain, suggests deep-seated megalomania.
 
-## But the true force that drove people out into streets, in their pajamas… is grief.
+## But the true force that drove people out into the streets, in their pajamas… is grief.
 
-A man was executed in front of his family by an army soldier driving an army colonel. Thousands of hearts broke into millions of shards the video quick spread through the web. Of course, the shooter drove away behind the signature dark tinted windows that we have all come to love and associate with abuse of power.
+A man was executed in front of his family by the driver of an army colonel. Thousands of hearts broke into millions of shards the video quick spread through the web. Of course, the shooter drove away behind the signature dark tinted windows that we have all come to love and associate with abuse of power.
 
 _**Last night was the night we learned that when we become true countrymen/women, the execution of a stranger can feel like the murder of the closest and dearest of relatives.**_ Because far beyond blood ties are the ties of our humanity, our empathy and our common fight for life.
 
